@@ -1,7 +1,7 @@
 # Finding a Less Risky Alternative to the S&P 500
 
 ## Motivation
-I wanted to find a portfolio of stocks that could deliver my clients lower risk than the S&P 500 index while maintaining comparable returns.
+I wanted to find a portfolio of stocks that could deliver clients lower risk than the S&P 500 index while maintaining comparable returns.
 
 ## Tools
 I used the programming language R to conduct this analysis, including:
